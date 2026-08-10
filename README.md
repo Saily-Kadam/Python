@@ -1,1 +1,2 @@
-This repository consists of the Python codes.
+# Python
+This repository contains python codes.
